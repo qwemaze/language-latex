@@ -2,7 +2,7 @@
   'tex'
 ]
 'firstLineMatch': '^\\\\documentclass(?!.*\\{beamer\\})'
-'name': 'LaTeX'
+'name': 'LaTeX Custom'
 'patterns': [
   {
     'match': '(?=\\s)(?<=\\\\[\\w@]|\\\\[\\w@]{2}|\\\\[\\w@]{3}|\\\\[\\w@]{4}|\\\\[\\w@]{5}|\\\\[\\w@]{6})\\s'
