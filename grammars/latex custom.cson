@@ -800,7 +800,7 @@
         'name': 'punctuation.definition.column-specials.begin.latex'
       '2':
         'name': 'punctuation.definition.column-specials.end.latex'
-    'match': '(?:<|>)(\\{)\\$(\\})'
+    'match': '(?:<|>)(\\{)(\\})'
     'name': 'meta.column-specials.latex'
   }
   {
